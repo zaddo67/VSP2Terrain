@@ -3,6 +3,8 @@ Vegetation Studio to Terrain
 
 This script will convert data in Vegetation Studio's persistent storage into Unity Terrain vegetation.
 
+WARNING: Backup your project before running this script. It will modify your terrain.
+
 The utility can be found under the menu, Tools/Utility/Vegetation Studio to Terrain
 
 To run this tool, drag the game object with the persistent vegetation storage into the persistent storage field then click convert.
